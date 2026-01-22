@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331847031806",
+    "project_id": "poker-payout-calculator-github",
+    "storage_bucket": "poker-payout-calculator-github.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331847031806:android:9955d2cb6ac357f3ca3eaf",
+        "android_client_info": {
+          "package_name": "com.example.pokerpayoutcalc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnhPO-rzYhanxptK5oZqrR-vM3TbFc57M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
