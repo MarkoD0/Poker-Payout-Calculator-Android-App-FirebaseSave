@@ -4,7 +4,7 @@
 ---
 
 ## 📱 App Preview
-<video src="Link" controls title="Poker Payout Calculator Demo" style="max-width: 100%;"></video>
+<video src="https://github.com/user-attachments/assets/9dce4e98-e4a8-42f5-8665-4a7b225f9454" controls title="Poker Payout Calculator Demo" style="max-width: 100%;"></video>
 
 ---
 
@@ -77,7 +77,9 @@ All game data is securely saved on Google's Firebase Cloud Firestore. The applic
 
 
 ## 📥 Installation
-You can download the latest installable APK from the [Releases Section](link-to-your-releases). 
+You can download the latest installable APK from releases section or [this link](https://github.com/MarkoD0/Poker-Payout-Calculator-Android-App-FirebaseSave/releases/download/v1.0/app-debug.apk). 
+#### (Note: This is a Debug Build)
 1. Download the `.apk` file.
 2. Transfer it to your Android device.
 3. Open the file to install (ensure "Install from unknown sources" is enabled).
+4. ⚠️ Since this is a debug-signed version, Google Play Protect may show a warning. Select "Install anyway" to proceed.
