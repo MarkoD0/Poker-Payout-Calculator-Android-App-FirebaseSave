@@ -75,6 +75,13 @@ All game data is securely saved on Google's Firebase Cloud Firestore. The applic
 
 #### It's crucial to understand that games on the same Firebase server will share data. For this reason, I highly recommend that you set up your own dedicated Firebase server for your games. This ensures data isolation, security, and optimal performance for each individual user.
 
+---
+
+## 📱 Prefer Offline Storage?
+Don't want to deal with setting up a cloud database? There is a **fully local version** of this app that stores all data directly on your device with no configuration required:
+👉 [Poker Payout Calculator (Local Save Version)](https://github.com/MarkoD0/Poker-Payout-Calculator-Android-App-LocalSave)
+
+---
 
 ## 📥 Installation
 You can download the latest installable APK from releases section or [this link](https://github.com/MarkoD0/Poker-Payout-Calculator-Android-App-FirebaseSave/releases/download/v1.0/app-debug.apk). 
